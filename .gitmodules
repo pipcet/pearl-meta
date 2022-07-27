@@ -1,0 +1,12 @@
+[submodule "pearl-toolchain"]
+	path = pearl-toolchain
+	url = https://github.com/pipcet/pearl-toolchain
+[submodule "pearl-debian"]
+	path = pearl-debian
+	url = https://github.com/pipcet/pearl-debian
+[submodule "pearl-bootloaders"]
+	path = pearl-bootloaders
+	url = https://github.com/pipcet/pearl-bootloaders
+[submodule "pearl"]
+	path = pearl
+	url = https://github.com/pipcet/pearl
